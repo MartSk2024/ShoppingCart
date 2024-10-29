@@ -154,4 +154,4 @@ public class Cart {
             throw new ShoppingCartException("Soubor "+filename+ " nebyl nalezen!");
         }
     }
-}
+}//
