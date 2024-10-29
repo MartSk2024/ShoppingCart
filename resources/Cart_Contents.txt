@@ -1,0 +1,5 @@
+2023-10-19T14:15:35; 14.8; 3; FOOD; kobliha s marmeládou; true
+2023-10-19T14:18:05; 21.5; 5; FOOD; tyčinka musli; true
+2023-10-19T14:20:55; 135.0; 1; CONSUMABLES; tekuté mýdlo (250 ml); false
+2023-10-19T14:25:40; 80.0; 10; OTHERS; kartáček na zuby; true
+2023-10-19T14:30:45; 138.0; 1; CONSUMABLES; opalovací krém; false
